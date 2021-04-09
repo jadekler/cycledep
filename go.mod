@@ -1,4 +1,4 @@
-module example.com/cycledep
+module github.com/jadekler/cycledep
 
 go 1.12
 
