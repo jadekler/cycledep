@@ -1,3 +1,3 @@
 package a
 
-import _ "example.com/cycle"
+import _ "github.com/jadekler/cycle"
